@@ -1,0 +1,16 @@
+div{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    /* background-image: linear-gradient(to right,indigo,blue,green,yellow,orange,red); */
+    /* background-image: linear-gradient(red 1%,green 20%); */
+    background-image: linear-gradient(rgba(255,255,0,0.5),rgba(0,255,255,0.8));
+}
+
+#d1{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    background-image: repeating-linear-gradient(pink 10%,black 20%);
+}
