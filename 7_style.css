@@ -1,0 +1,116 @@
+.box1{
+    background-color: cornflowerblue;
+    width: 450px;
+    height: 250px;
+    font-size: 25px;
+    /*border-style
+    border-width
+    border-color
+    border-radius
+    border-sides:
+        border-top
+        border-bottom
+        border-right
+        border-left
+    border-radius:left top bottom right
+    */
+    /*border: outset 10px teal; */
+    /* border: inset 10px teal;  */
+    /* border: dotted 10px teal;
+    border: double 10px teal;
+    border: dashed 10px teal;
+    border: solid 10px teal; */
+    border: groove 10px teal;
+    border: 10px ridge  teal;
+    border-radius: 25px;
+}
+
+.box2{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(217, 31, 11);
+    border-radius: 50%;
+    border: 5px solid salmon;
+
+}
+
+.box3{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border-top: 10px solid aqua;
+    border-bottom: 10px solid coral;
+    border-right: 10px solid rgb(6, 71, 71);
+    border-left: 10px solid rgb(159, 51, 11);
+    border-radius: 50%;
+}
+
+.box4{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-top: 10px solid coral;
+    border-bottom: 10px solid rgb(161, 49, 9);
+    border-right: none;
+    border-left: 10px solid rgb(208, 72, 22);
+    border-radius: 50%;
+}
+
+.box5{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-top: 10px solid coral;
+    border-bottom: 10px solid rgb(161, 49, 9);
+    border-right: none;
+    border-left: none;
+    border-radius: 50%;
+}
+
+.box6{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-right: 10px solid coral;
+    border-left: 10px solid rgb(161, 49, 9);
+    
+    border-radius: 25px;
+}
+
+.box7{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-top: 10px solid coral;
+    border-bottom: 10px solid rgb(161, 49, 9);
+    border-left: none;
+    border-right: 10px solid rgb(208, 72, 22);
+    border-radius: 50%;
+}
+
+.box8{
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border-right: 10px solid rgb(114, 238, 172);
+    border-left: 10px solid rgb(255, 137, 239);
+    
+    border-radius: 65px 0px 65px 0px;
+}
+
+.box9{
+    margin-top: 20px;
+    width: 450px;
+    height: 250px;
+    font-size: 25px;
+    border: 10px solid rgb(139, 255, 139);
+    margin: auto;
+    padding: 50px;
+}
