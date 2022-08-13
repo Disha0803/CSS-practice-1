@@ -1,0 +1,18 @@
+.leftsidebar{
+    background-color: rgb(247, 110, 183);
+    height: 400px;
+    width: 30%;
+    float: left;
+}
+
+.rightsidebar{
+    background-color: rgb(106, 174, 247);
+    height: 200px;
+    width: 70%;
+    float: right;
+}
+
+.footer{
+    background-color: rgb(218, 146, 238);
+    clear: both;
+}

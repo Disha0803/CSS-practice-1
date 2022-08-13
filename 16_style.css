@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    height: 30px;
+    width: 20%;
+    background-color: aquamarine;
+    float: left;
+}
+.navbar{
+    height: 30px;
+    width: 100%;
+    background-color: cadetblue;
+}
+.img{
+    height: 100px;
+    width: 100%;
+    background-color: burlywood;
+}
+.box1{
+    height: 80px;
+    width: 30%;
+    background-color: rosybrown;
+    float: left;
+}
+
+.box2{
+    height: 80px;
+    width: 40%;
+    background-color: royalblue;
+    float: left;
+} 
+
+.box3{
+    height: 80px;
+    width: 30%;
+    background-color: rosybrown;
+    float: right;
+}
+
+.footer{
+    height: 30px;
+    width: 100%;
+    background-color: turquoise;
+    clear: both;
+}

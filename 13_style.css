@@ -1,0 +1,29 @@
+
+#pic{
+    float: left;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+}
+
+#pic2{
+    float: right;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+p{
+    width: 80%;
+    border: 2px solid blue;
+    text-align: justify;
+    padding: 10px;
+}
+
+
+span{
+    font-size: 25px;
+    font-weight: bold;
+    
+}

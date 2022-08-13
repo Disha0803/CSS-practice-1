@@ -1,0 +1,17 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+#div1{
+    background-color: teal;
+    color: white;
+    width: 40%;
+    float: left;
+}
+#div2{
+    background-color: deeppink;
+    color: white;
+    width: 50%;
+    float: right;
+}
