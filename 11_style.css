@@ -1,0 +1,14 @@
+body{
+    /* background: url("images/img3.jpg"),red; */
+    /* background-image: url("/images/img3.jpg"),linear-gradient(45deg,red,blue); */
+    /* linear-gradient(to right, red , blue); */
+    background-image: url("images/img4.webp"),url("images/img3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    /* background-blend-mode: color; */
+    /* background-blend-mode: difference; */
+    /* background-blend-mode: hard-light; */
+    /* background-blend-mode:  darken; */
+    /* background-blend-mode: exclusion; */
+}
