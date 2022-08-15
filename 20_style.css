@@ -1,0 +1,15 @@
+.box{
+    background-color: darkorange;
+    height: 200px;
+    width: 300px;
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    /* overflow: auto; */
+    overflow: scroll;
+    /* overflow-x: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    overflow-y: scroll; */
+}

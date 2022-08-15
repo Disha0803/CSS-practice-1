@@ -1,0 +1,30 @@
+div{
+    height: 100px;
+    width: 100px;
+    color: white;
+    text-align: center;
+}
+
+.box1{
+    background-color: red;
+     visibility: visible; /*default */
+}
+
+.box2{
+    background-color: green;
+    visibility: hidden;
+    /* visibility: collapse; */
+}
+
+.box3{
+    background-color: blue;
+}
+
+.box4{
+    background-color: teal;
+    display: none;
+}
+
+.box5{
+    background-color: tomato;
+}
