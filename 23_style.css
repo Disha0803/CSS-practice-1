@@ -1,0 +1,10 @@
+h2{
+    text-shadow: 2px 2px 2px red;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(45deg,rgb(126, 126, 243),rgb(244, 244, 99));
+    box-shadow: 5px 5px 10px rgb(11, 32, 24),10px 10px 10px rgb(167, 184, 242),12px 12px 12px rgb(237, 231, 116);
+}
