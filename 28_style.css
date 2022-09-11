@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box1{
+    width: 15%;
+    height: 100vh;
+    background-color: teal;
+    float: left;
+}
+.box2{
+    width: 85vw;
+    height: 100vh;
+    background-color: cornflowerblue;
+    float: left;
+}
