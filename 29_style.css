@@ -1,0 +1,73 @@
+div{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+    opacity: 0.7;
+}
+
+.box1{
+    background-image: linear-gradient(rgb(46, 228, 43),rgb(154, 244, 169)); 
+    top:20px;
+    left: 120px;
+    z-index: -1;
+}
+
+.box2{
+    background-image: linear-gradient(rgb(254, 226, 19),rgb(250, 234, 91));
+    top: 40px;
+    left: 150px;
+}
+
+.box3{
+    background-image: linear-gradient(rgb(21, 109, 145),rgb(90, 181, 220));
+    top: 60px;
+    left: 130px;
+}
+
+.box4{
+    background-image: linear-gradient(rgb(165, 18, 84),rgb(246, 123, 189));
+    top: 70px;
+    left: 100px;
+}
+
+.box5{
+    background-image: linear-gradient(rgb(189, 20, 20),rgb(242, 95, 95));
+    top: 80px;
+    left: 70px;
+    z-index: 1;
+}
+
+.box6{
+    background-image: linear-gradient(rgb(46, 228, 43),rgb(154, 244, 169));
+    top: 70px;
+    left: 30px;
+}
+
+.box7{
+    background-image: linear-gradient(rgb(21, 109, 145),rgb(90, 181, 220));
+    top: 50px;
+    left: 0px;
+    z-index: -1;
+}
+
+.box8{
+    background-image: linear-gradient(rgb(254, 226, 19),rgb(250, 234, 91));
+    top: 30px;
+    left: 0px;
+    z-index: -2;
+}
+
+.box9{
+    background-image: linear-gradient(rgb(189, 20, 20),rgb(242, 95, 95));
+    top: 0px;
+    left: 70px;
+    z-index: -3;
+}
+
+.box10{
+    background-image: linear-gradient(rgb(165, 18, 84),rgb(246, 123, 189)); 
+    top: 10px;
+    left: 20px;
+    z-index: -3;
+}
